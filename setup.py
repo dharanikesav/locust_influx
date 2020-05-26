@@ -21,7 +21,7 @@ setup(
     include_package_data=True,
     python_requires='>=3.6',
     install_requires=[
-        'locustio>=0.12.2',
+        'locust>=1.0',
         'influxdb>=5.2.2',
     ],
     classifiers=[
